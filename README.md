@@ -9,6 +9,16 @@ If you want to know how to get started or how to use the software, please check 
 
 ---
 
+## Project Status: Early Stages
+Please keep in mind that this is just the beginning of our journey. As an early-stage project, the software might still be a bit "unripe" and rough around the edges—but we are constantly working to improve and refine it!
+
+## Join the Community
+Have suggestions, feedback, or found a bug? We’d love to hear from you. Come join our Discord server to share your thoughts and help shape the future of this project:
+
+👉 **[Join our Discord here](https://discord.gg/9RWSnSWNCq)**
+
+---
+
 ## About ImpactCBVR
 We believe software should be accessible and lightweight. That is why ImpactCBVR takes a different approach than traditional desktop applications.
 
